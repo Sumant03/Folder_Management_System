@@ -1,0 +1,25 @@
+.rci9999Menu{
+    background-color: #fff;
+    position: fixed;
+    width: 150px;
+    border: 3px solid #6F8FAF;
+}
+.rci9999MenuItem{
+    background-color: #fff;
+    border-bottom: 2px solid #6F8FAF;
+    color: #000;
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    padding: 12px;
+    text-align: left;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    /* border: 1px solid; */
+}
+
+.rci9999MenuItem:hover{
+    background-color: rgb(241, 236, 236);
+}

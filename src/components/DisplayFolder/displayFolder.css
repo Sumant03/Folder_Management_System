@@ -1,0 +1,29 @@
+.dfol7777NotFound{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(20%);
+}
+.dfol7777Image{
+    width: 100%;
+    height:400px;
+    object-fit: contain;
+    margin-bottom:20px ;
+}
+
+.hp66OpenModalIcon{
+    margin-top: 60px;
+    width:140px; 
+    height:100px; 
+}
+
+
+@media only screen and (max-width:600px)  {
+
+.dfol7777Image{
+    align-items: center;
+    width: 300px;
+    margin: auto;
+ }
+}

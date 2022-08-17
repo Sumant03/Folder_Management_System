@@ -1,0 +1,67 @@
+.hp6666RowDisplay {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: 40px;
+    padding-right: 5px;
+    padding-top: 1.5rem;
+    padding-left: 5px;
+    padding:30px ;
+}
+
+
+.hp6666ColumnDiv {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 30px;
+    margin-left: 10px;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    height: 100px;
+ 
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.hp6666ColumnDiv:hover {
+    background-color: aliceblue;
+}
+
+.hp6666Image{
+    width: 80px;
+}
+
+.hp6666IndiseColumn{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.hp6666Name {
+    margin-top: 6px;
+    font-size: 0.9rem;
+    width:50px ;
+    margin-left:5px;
+    display: flex;
+    justify-content: left;
+    align-items:left;
+}
+.hp6666penModalIcon{
+
+    cursor: pointer;
+    align-self: center;
+    margin: 0px;
+    width: 140px;
+    height: 100px;
+}

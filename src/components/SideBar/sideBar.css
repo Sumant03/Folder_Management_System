@@ -1,0 +1,29 @@
+.sbar3333Data{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    cursor: pointer;
+    cursor: pointer;
+    padding: 8px;
+    margin-left: "15px";
+}
+
+.sbar3333Data:hover{
+    background-color:#e7ecf0;
+}
+
+.sb30ItemIcon{
+    width: 35px;
+    margin-top: 3px;
+}
+
+.sbar3333Text{
+    margin-left: 10px;
+    color: #000;
+    font-size: 14px;
+}
+
+
+
+
+
