@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Folder_Management_System/static/css/main.3cd4f61f.css",
+    "main.js": "/Folder_Management_System/static/js/main.463df37b.js",
+    "static/js/787.bb2660d1.chunk.js": "/Folder_Management_System/static/js/787.bb2660d1.chunk.js",
+    "static/media/notFound.jpeg": "/Folder_Management_System/static/media/notFound.820ed536ea1b101e56fb.jpeg",
+    "static/media/fileIcon.jpeg": "/Folder_Management_System/static/media/fileIcon.1b275f0b9fd79e12b645.jpeg",
+    "static/media/create.png": "/Folder_Management_System/static/media/create.92e32e9b581f32fb6e26.png",
+    "static/media/endResult.svg": "/Folder_Management_System/static/media/endResult.371ea1b7e6258d713a871bf28cb89508.svg",
+    "static/media/folderIcon.png": "/Folder_Management_System/static/media/folderIcon.93380a94aac59d4e9b4f.png",
+    "static/media/emptyFolder.svg": "/Folder_Management_System/static/media/emptyFolder.0864556fc19d9197763fc55ae0618b9e.svg",
+    "index.html": "/Folder_Management_System/index.html",
+    "main.3cd4f61f.css.map": "/Folder_Management_System/static/css/main.3cd4f61f.css.map",
+    "main.463df37b.js.map": "/Folder_Management_System/static/js/main.463df37b.js.map",
+    "787.bb2660d1.chunk.js.map": "/Folder_Management_System/static/js/787.bb2660d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd4f61f.css",
+    "static/js/main.463df37b.js"
+  ]
+}
